@@ -1,0 +1,3 @@
+adjustmentDate,region,customerName,productCategory,adjustmentRevenue,adjustmentOrderCount,adjustmentType
+2026-01-02,Region A,Customer One,Category A,500,1,manual_adjustment
+2026-01-03,Region B,Customer Two,Category B,-200,0,return_adjustment

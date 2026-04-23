@@ -1,0 +1,43 @@
+{
+  "activeScenarioId": "baseline",
+  "lastRefreshUtc": "2026-01-01T00:00:00Z",
+  "refreshVersion": 1,
+  "scenarios": {
+    "baseline": {
+      "salesSummaryRows": [
+        {
+          "orderDate": "2026-01-01",
+          "region": "Region A",
+          "customerName": "Customer One",
+          "productCategory": "Category A",
+          "revenue": 10000,
+          "orderCount": 2
+        }
+      ]
+    },
+    "regional_growth": {
+      "salesSummaryRows": [
+        {
+          "orderDate": "2026-01-02",
+          "region": "Region B",
+          "customerName": "Customer Two",
+          "productCategory": "Category B",
+          "revenue": 12000,
+          "orderCount": 3
+        }
+      ]
+    },
+    "enterprise_accounts": {
+      "salesSummaryRows": [
+        {
+          "orderDate": "2026-01-03",
+          "region": "Region C",
+          "customerName": "Customer Three",
+          "productCategory": "Category C",
+          "revenue": 15000,
+          "orderCount": 1
+        }
+      ]
+    }
+  }
+}

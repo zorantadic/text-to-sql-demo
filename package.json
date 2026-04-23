@@ -1,0 +1,13 @@
+{
+  "name": "text-to-sql-demo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "echo Root dev script not configured yet",
+    "build": "echo Root build script not configured yet",
+    "test": "echo Root test script not configured yet"
+  }
+}
